@@ -3,7 +3,7 @@ class Fulfil_Erpconnector_ErpconnectorController extends Mage_Core_Controller_Fr
 {
 
     public function indexAction(){
-        die('its working');
+        die('Fulfil.io Magento extension installed successfully.');
     }
 
 }
