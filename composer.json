@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Fulfil-io",
+    "name": "OpenMageModuleFostering\/Fulfil-io",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "Magento core API extension for Fulfil.io ERP.",
     "authors": [
-    {
-        "name": "Tarun Bhardwaj",
-        "email": "tarun.bhardwaj@fulfil.io"
-    }
-],
+        {
+            "name": "Tarun Bhardwaj",
+            "email": "tarun.bhardwaj@fulfil.io"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
